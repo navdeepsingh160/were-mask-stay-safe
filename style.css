@@ -1,0 +1,55 @@
+body
+{
+    color: red;
+    background-color: skyblue;
+    
+}
+span{
+    font-size: 23px;
+  
+}
+
+.emoji{
+    font-size: 48px;
+}
+
+.heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+
+}
+label{
+    font-size: 14px;
+    color: green;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+
+
+#status{
+    color: #000;
+    font-size: 40px;
+}
+
+#camera, #result{
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 50px;
+    width: 350px;
+    height: 300px;
+
+}
+
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
